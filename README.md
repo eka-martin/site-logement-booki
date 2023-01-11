@@ -2,6 +2,7 @@
 
 
 Implémentation une interface responsive
+<br>
 Intégration du contenu conformément à une maquette (mobile, tablette, desktop)
 
 <!-- blank line -->
