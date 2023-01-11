@@ -2,4 +2,4 @@
 
 
 Implémentation une interface responsive
-Intégration du contenu conformément à une maquette
+Intégration du contenu conformément à une maquette (mobile, tablette, desktop)
